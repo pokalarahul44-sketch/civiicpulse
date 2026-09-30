@@ -1,0 +1,30 @@
+CIVICPULSE — DISTRICT REVIEW BRIEF
+Raichur, Karnataka
+
+HACKATHON DEMO: All baseline statistics and initial requests are synthetic. This is an illustrative decision aid, not an approved investment plan.
+
+Priority score: 77/100
+Requests: 11
+Leading request category: Water
+
+Score components (0–100):
+Demand per population: 61 (30%)
+Infrastructure deficit: 84 (35%)
+Vulnerability: 79 (20%)
+Plan alignment: 90 (15%)
+
+Recommended next step: Conduct a water needs assessment, verify locations and existing works, and obtain a costed proposal before selecting a project.
+
+Evidence to review:
+- [sample-1] Our village water pump is broken. Families walk three kilometres to collect drinking water. Please repair the pump.
+- [sample-2] The village has no drinking water supply; residents request restoration.
+- [sample-3] A damaged village road makes travelling to school difficult; residents request repairs.
+- [sample-4] Our village water pump is broken. Families walk three kilometres to collect drinking water. Please repair the pump.
+- [sample-5] The village has no drinking water supply; residents request restoration.
+- [sample-6] A damaged village road makes travelling to school difficult; residents request repairs.
+- [sample-7] Our village water pump is broken. Families walk three kilometres to collect drinking water. Please repair the pump.
+- [sample-8] The village has no drinking water supply; residents request restoration.
+
+Limitations: Synthetic population and indices; small, self-selected request sample; no verified budget, cost or impact estimates. Score weights and demand saturation are illustrative and need stakeholder validation. Complaint volume is not a measure of total unmet need.
+
+Human approval required. No funds are allocated by this system.

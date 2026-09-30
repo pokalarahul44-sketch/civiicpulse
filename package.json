@@ -1,0 +1,14 @@
+{
+  "name": "civicpulse-google-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env backend/src/server.mjs",
+    "dev": "node --watch --env-file-if-exists=.env backend/src/server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.9.0"
+  }
+}
